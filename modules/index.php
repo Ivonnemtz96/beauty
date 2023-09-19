@@ -25,8 +25,8 @@
                                 <div class="slider-btn mt-30">
                                     <a href="/contacto" class="btn ss-btn mr-15" data-animation="fadeInUp"
                                         data-delay=".8s">Agendar cita</a>
-                                    <a href="/galeria" class="video-i popup-video"
-                                        data-animation="fadeInUp" data-delay=".8s"><i class="fas fa-play"></i> Ver
+                                    <a href="/galeria" class="video-i popup-video" data-animation="fadeInUp"
+                                        data-delay=".8s"><i class="fas fa-play"></i> Ver
                                         galería</a>
                                 </div>
                             </div>
@@ -56,8 +56,8 @@
                                 <div class="slider-btn mt-30">
                                     <a href="/contacto" class="btn ss-btn mr-15" data-animation="fadeInUp"
                                         data-delay=".8s">Agendar cita</a>
-                                    <a href="/galeria" class="video-i popup-video"
-                                        data-animation="fadeInUp" data-delay=".8s"><i class="fas fa-play"></i> Ver galería</a>
+                                    <a href="/galeria" class="video-i popup-video" data-animation="fadeInUp"
+                                        data-delay=".8s"><i class="fas fa-play"></i> Ver galería</a>
                                 </div>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                             Nuestro exclusivo salón se dedica a ofrecer una gama completa de tratamientos estéticos de
                             vanguardia que incluyen el aclamado Botox para suavizar arrugas y líneas de expresión,
                             rejuvenecimiento facial para restaurar la luminosidad y firmeza de la piel, el Dermapen que
-                            estimula la regeneración celular, limpieza profunda para una piel impecable, sueroterapia
+                            estimula la regeneración celular, limpieza profunda para una piel impecable, suero terapia
                             para una hidratación y revitalización intensas, y rellenos de ácido hialurónico para
                             conseguir un aspecto fresco y rejuvenecido.
                         </p>
@@ -181,8 +181,7 @@
                                 <div class="text">
                                     <h4><a href="single-service.html">Limpieza facial profunda</a></h4>
                                     <p>
-                                        Cras id aliquam leo. Vestibulum laoreet, mi sit amet
-                                        tristique tincidunt nec laoreet.
+                                        Revela la pureza de tu piel con nuestra limpieza facial profunda.
                                     </p>
                                 </div>
                             </li>
@@ -193,8 +192,7 @@
                                 <div class="text">
                                     <h4><a href="single-service.html">Botox</a></h4>
                                     <p>
-                                        Aenean eleifend turpis tellus, nec laoreet metus
-                                        elementum ac.
+                                        Luce radiante y natural con nuestros tratamientos de Botox.
                                     </p>
                                 </div>
                             </li>
@@ -205,8 +203,7 @@
                                 <div class="text">
                                     <h4><a href="single-service.html">Suero terapia</a></h4>
                                     <p>
-                                        Aenean eleifend turpis tellus, nec laoreet metus
-                                        elementum ac.
+                                        Lleva tu piel al siguiente nivel con nuestra suero terapia de calidad premium.
                                     </p>
                                 </div>
                             </li>
@@ -229,8 +226,7 @@
                                 <div class="text pt-10">
                                     <h4><a href="single-service.html">Dermapen</a></h4>
                                     <p>
-                                        Aenean eleifend turpis tellus, nec laoreet metus
-                                        elementum ac.
+                                        Transforma cicatrices y arrugas con la magia de Dermapen.
                                     </p>
                                 </div>
                             </li>
@@ -241,8 +237,8 @@
                                 <div class="text pt-10">
                                     <h4><a href="single-service.html">Rellenos de ácido hialurónico</a></h4>
                                     <p>
-                                        Aenean eleifend turpis tellus, nec laoreet metus
-                                        elementum ac.
+                                        Luce radiante y rejuvenecida en minutos con nuestros rellenos de ácido
+                                        hialurónico.
                                     </p>
                                 </div>
                             </li>
@@ -253,8 +249,7 @@
                                 <div class="text pt-10">
                                     <h4><a href="single-service.html">Rejuvenecimiento facial</a></h4>
                                     <p>
-                                        Aenean eleifend turpis tellus, nec laoreet metus
-                                        elementum ac.
+                                        Recupera la juventud y la luminosidad de tu piel en Beauty Style.
                                     </p>
                                 </div>
                             </li>
@@ -265,23 +260,19 @@
         </div>
     </section>
     <!-- service-details2-area-end -->
-   
-    
-   
+
+
+
     <!-- gallery-area -->
-    <section id="work" class="pt-120 pb-110" style="
-          background: url(/img/bg/gallery-bg.png);
-          background-size: cover;
-          background-position: center center;
-          background-repeat: no-repeat;
-        ">
+    <section id="work" class="pt-120 pb-110"
+        style=" background: url(/img/bg/gallery-bg.png); background-size: cover; background-position: center center;background-repeat: no-repeat; ">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center mb-40 wow fadeInDown animated" data-animation="fadeInDown"
                         data-delay=".4s">
-                        <h5>Our Gallery</h5>
-                        <h2>See Our Portfolio</h2>
+                        <h5>Galería</h5>
+                        <h2>Resultados que hablan por sí mismos.</h2>
                     </div>
                 </div>
             </div>
@@ -363,13 +354,8 @@
                 <div class="col-lg-4">
                     <div class="section-title mb-50 wow fadeInDown animated" data-animation="fadeInDown"
                         data-delay=".4s">
-                        <h5>Our Testimonial</h5>
-                        <h2>What Our Clients Says</h2>
-                        <p class="mt-15">
-                            Nullam posuere eros ex, vitae consequat ipsum semper cursus.
-                            In ut commodo eros. Vestibulum sed elit id orci rhoncus. Duis
-                            quis nunc eu augue efficitur suscipit.
-                        </p>
+                        <h5>Opiniones</h5>
+                        <h2>¿Qué dicen nuestros clientes?</h2>
                     </div>
                 </div>
 
@@ -379,8 +365,8 @@
                             <div class="testi-author">
                                 <img src="/img/testimonial/testi_avatar.png" alt="img" />
                                 <div class="ta-info">
-                                    <h6>Jina Nilson</h6>
-                                    <span>Client</span>
+                                    <h6>Cliente 1</h6>
+                                    <!-- <span>Client</span> -->
                                 </div>
                             </div>
                             <p>
@@ -397,8 +383,8 @@
                             <div class="testi-author">
                                 <img src="/img/testimonial/testi_avatar_02.png" alt="img" />
                                 <div class="ta-info">
-                                    <h6>Braitly Dcosta</h6>
-                                    <span>Client</span>
+                                    <h6>Cliente 2</h6>
+                                    <!-- <span>Client</span> -->
                                 </div>
                             </div>
                             <p>
@@ -415,8 +401,8 @@
                             <div class="testi-author">
                                 <img src="/img/testimonial/testi_avatar.png" alt="img" />
                                 <div class="ta-info">
-                                    <h6>Jina Nilson</h6>
-                                    <span>Client</span>
+                                    <h6>Cliente 3</h6>
+                                    <!-- <span>Client</span> -->
                                 </div>
                             </div>
                             <p>
@@ -433,8 +419,8 @@
                             <div class="testi-author">
                                 <img src="/img/testimonial/testi_avatar_02.png" alt="img" />
                                 <div class="ta-info">
-                                    <h6>Braitly Dcosta</h6>
-                                    <span>Client</span>
+                                    <h6>Cliente 4</h6>
+                                    <!-- <span>Client</span> -->
                                 </div>
                             </div>
                             <p>
@@ -453,8 +439,8 @@
         </div>
     </section>
     <!-- testimonial-area-end -->
-     <!-- booking-area -->
-     <section id="booking" class="booking-area p-relative pt-120 pb-120" style="
+    <!-- booking-area -->
+    <section id="booking" class="booking-area p-relative pt-120 pb-120" style="
           background: url(/img/bg/ap-bg.png);
           background-size: cover;
           background-position: center center;
@@ -465,46 +451,45 @@
                 <div class="col-lg-6">
                     <div class="contact-bg">
                         <div class="section-title center-align">
-                            <h5>Get In Touch</h5>
-                            <h2>Get Appointment</h2>
-                            <p>
+                            <h5>¡No esperes más!</h5>
+                            <h2>Agenda tu cita hoy mismo</h2>
+                            <!-- <p>
                                 Aenean ut enim vel lectus rutrum sodales. Aliquam consequat
                                 augue eget enim convallis, at maximus libero ullamcorper.
                                 Cras sit amet placerat nisi.
-                            </p>
+                            </p> -->
                         </div>
                         <form action="https://htmldemo.zcubethemes.com/fallspa/mail.php" method="post"
                             class="contact-form mt-30">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-name mb-20">
-                                        <input type="text" id="firstn" name="firstn" placeholder="First Name"
+                                        <input type="text" id="firstn" name="firstn" placeholder="Nombre completo"
                                             required />
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-subject mb-20">
-                                        <input type="text" id="email" name="email" placeholder="Eamil" required />
+                                        <input type="text" id="email" name="email" placeholder="Correo" required />
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-subject mb-20">
-                                        <select class="custom-select" id="inputGroupSelect04"
-                                            aria-label="Example select with button addon">
-                                            <option selected>Select Department...</option>
-                                            <option value="1">One</option>
-                                            <option value="2">Two</option>
-                                            <option value="3">Three</option>
-                                        </select>
-                                        <i class="far fa-angle-down"></i>
+                                        <input type="text" id="email" name="email" placeholder="Teléfono" required />
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-subject mb-20">
-                                        <input type="date" id="subject" name="subject" placeholder="Subject" />
+                                        <input type="date" name="datetime" id="datetime" placeholder="fecha"/>
                                     </div>
                                 </div>
+                                <div class="col-lg-6">
+                                    <div class="contact-field p-relative c-subject mb-20">
+                                        <input type="time" name="datetime" id="datetime" placeholder="Hora"/>
+                                    </div>
+                                </div>
+                              
                                 <div class="col-lg-12">
                                     <div class="contact-field p-relative c-message mb-30">
                                         <textarea name="message" id="message" cols="30" rows="10"
@@ -547,6 +532,6 @@
         </div>
     </section>
     <!-- booking-area-end -->
-    
+
 </main>
 <!-- main-area-end -->
