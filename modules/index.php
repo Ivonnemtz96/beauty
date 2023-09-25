@@ -1,6 +1,5 @@
 <!-- main-area -->
 <main>
-
     <!-- slider-area -->
     <section id="home" class="slider-area fix p-relative">
         <div class="slider-active" style="background: #00173c">
@@ -12,22 +11,24 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-lg-6 col-md-7">
                             <div class="slider-content s-slider-content mt-20">
-                                <h5 data-animation="fadeInUp" data-delay=".4s">
+                                <h5 style="color: #fff; text-shadow: #000 1px 1px 3px;" data-animation="fadeInUp"
+                                    data-delay=".4s">
                                     La belleza comienza aquí
                                 </h5>
-                                <h2 data-animation="fadeInUp" data-delay=".4s">
+                                <h2 style="color: #fff;  text-shadow: #000 1px 1px 1px;" data-animation="fadeInUp"
+                                    data-delay=".4s">
                                     Beauty Style<br />
                                 </h2>
-                                <p data-animation="fadeInUp" data-delay=".6s">
+                                <p style="color: #fff;  text-shadow: #000 1px 1px 1px;" data-animation="fadeInUp"
+                                    data-delay=".6s">
                                     Experimenta la transformación en Belleza Radiante.
                                 </p>
 
                                 <div class="slider-btn mt-30">
                                     <a href="/contacto" class="btn ss-btn mr-15" data-animation="fadeInUp"
                                         data-delay=".8s">Agendar cita</a>
-                                    <a href="/galeria" class="video-i popup-video" data-animation="fadeInUp"
-                                        data-delay=".8s"><i class="fas fa-play"></i> Ver
-                                        galería</a>
+                                    <a href="/contacto" class="btn ss-btn mr-15 btn_slider" data-animation="fadeInUp"
+                                        data-delay=".8s">Ver galería</a>
                                 </div>
                             </div>
                         </div>
@@ -43,21 +44,24 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-lg-6 col-md-7">
                             <div class="slider-content s-slider-content mt-20">
-                                <h5 data-animation="fadeInUp" data-delay=".4s">
+                                <h5 style="color: #fff; text-shadow: #000 1px 1px 3px;" data-animation="fadeInUp"
+                                    data-delay=".4s">
                                     Resultados que hablan por sí mismos.
                                 </h5>
-                                <h2 data-animation="fadeInUp" data-delay=".4s">
+                                <h2 style="color: #fff; text-shadow: #000 1px 1px 1px;" data-animation="fadeInUp"
+                                    data-delay=".4s">
                                     Beauty Style<br />
                                 </h2>
-                                <p data-animation="fadeInUp" data-delay=".6s">
+                                <p style="color: #fff;  text-shadow: #000 1px 1px 3px;" data-animation="fadeInUp"
+                                    data-delay=".6s">
                                     Despierta cada día con una piel más luminosa y joven.
                                 </p>
 
                                 <div class="slider-btn mt-30">
                                     <a href="/contacto" class="btn ss-btn mr-15" data-animation="fadeInUp"
                                         data-delay=".8s">Agendar cita</a>
-                                    <a href="/galeria" class="video-i popup-video" data-animation="fadeInUp"
-                                        data-delay=".8s"><i class="fas fa-play"></i> Ver galería</a>
+                                    <a href="/contacto" class="btn ss-btn mr-15 btn_slider" data-animation="fadeInUp"
+                                        data-delay=".8s">Ver galería</a>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +74,7 @@
     <!-- slider-area-end -->
 
     <!-- about-area -->
-    <section class="about-area about-p pt-120 pb-120 p-relative fix" style="
+    <section class="about-area about-p pt-120 pb-120 p-relative fix" id="nosotros" style="
           background: url(/img/bg/about-bg.png);
           background-size: contain;
           background-position: center center;
@@ -110,7 +114,7 @@
                             conseguir un aspecto fresco y rejuvenecido.
                         </p>
                         <div class="slider-btn mt-20">
-                            <a href="about.html" class="btn ss-btn smoth-scroll">Agendar cita</a>
+                            <a href="/#booking" class="btn ss-btn smoth-scroll">Agendar cita</a>
                         </div>
                     </div>
                 </div>
@@ -127,7 +131,7 @@
                         <div class="text">
                             <h5>Rellenos de ácido hialurónico</h5>
                             <h3>Resultados que hablan por sí mismos.</h3>
-                            <a href="single-service.html">Agendar cita</a>
+                            <a href="/#booking">Agendar cita</a>
                         </div>
                         <img src="/img/features/01.jpg" alt="icon01" />
                     </div>
@@ -137,7 +141,7 @@
                         <div class="text">
                             <h5>Rejuvenecimiento facial</h5>
                             <h3>Rejuvenece tu apariencia hoy mismo.</h3>
-                            <a href="single-service.html">Agendar cita</a>
+                            <a href="/#booking">Agendar cita</a>
                         </div>
                         <img src="/img/features/02.jpg" alt="icon01" />
                     </div>
@@ -147,7 +151,7 @@
                         <div class="text">
                             <h5>Botox</h5>
                             <h3>Descubre tu mejor versión con nosotros.</h3>
-                            <a href="single-service.html">Agendar cita</a>
+                            <a href="/#booking">Agendar cita</a>
                         </div>
                         <img src="/img/features/03.jpg" alt="icon01" />
                     </div>
@@ -157,7 +161,7 @@
     </section>
     <!-- feature-area-end -->
     <!-- service-details2-area -->
-    <section id="service-details2" class="service-details-two pb-105 p-relative" style="
+    <section id="servicios" class="service-details-two pb-120 p-relative" style="
           background: url(/img/bg/services-bg.png);
           background-size: contain;
           background-position: center center;
@@ -176,10 +180,10 @@
                         <ul class="sr-tw-ul">
                             <li>
                                 <div class="icon-right">
-                                    <img src="/img/icon/fe-icon01.png" alt="icon01" />
+                                    <img src="/img/icon/01.png" alt="icon01" />
                                 </div>
                                 <div class="text">
-                                    <h4><a href="single-service.html">Limpieza facial profunda</a></h4>
+                                    <h4><a href="#">Limpieza facial profunda</a></h4>
                                     <p>
                                         Revela la pureza de tu piel con nuestra limpieza facial profunda.
                                     </p>
@@ -187,10 +191,10 @@
                             </li>
                             <li>
                                 <div class="icon-right">
-                                    <img src="/img/icon/fe-icon05.png" alt="icon01" />
+                                    <img src="/img/icon/03.png" alt="icon01" />
                                 </div>
                                 <div class="text">
-                                    <h4><a href="single-service.html">Botox</a></h4>
+                                    <h4><a href="#">Botox</a></h4>
                                     <p>
                                         Luce radiante y natural con nuestros tratamientos de Botox.
                                     </p>
@@ -198,10 +202,10 @@
                             </li>
                             <li>
                                 <div class="icon-right">
-                                    <img src="/img/icon/fe-icon07.png" alt="icon01" />
+                                    <img src="/img/icon/06.png?=1" alt="icon01" />
                                 </div>
                                 <div class="text">
-                                    <h4><a href="single-service.html">Suero terapia</a></h4>
+                                    <h4><a href="#">Suero terapia</a></h4>
                                     <p>
                                         Lleva tu piel al siguiente nivel con nuestra suero terapia de calidad premium.
                                     </p>
@@ -221,10 +225,10 @@
                         <ul class="sr-tw-ul sr-thr-ul">
                             <li>
                                 <div class="icon">
-                                    <img src="/img/icon/fe-icon04.png" alt="icon01" />
+                                    <img src="/img/icon/05.png" alt="icon01" />
                                 </div>
                                 <div class="text pt-10">
-                                    <h4><a href="single-service.html">Dermapen</a></h4>
+                                    <h4><a href="#">Dermapen</a></h4>
                                     <p>
                                         Transforma cicatrices y arrugas con la magia de Dermapen.
                                     </p>
@@ -232,10 +236,10 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="/img/icon/fe-icon06.png" alt="icon01" />
+                                    <img src="/img/icon/04.png" alt="icon01" />
                                 </div>
                                 <div class="text pt-10">
-                                    <h4><a href="single-service.html">Rellenos de ácido hialurónico</a></h4>
+                                    <h4><a href="#">Rellenos de ácido hialurónico</a></h4>
                                     <p>
                                         Luce radiante y rejuvenecida en minutos con nuestros rellenos de ácido
                                         hialurónico.
@@ -244,10 +248,10 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="/img/icon/fe-icon08.png" alt="icon01" />
+                                    <img src="/img/icon/02.png" alt="icon01" />
                                 </div>
                                 <div class="text pt-10">
-                                    <h4><a href="single-service.html">Rejuvenecimiento facial</a></h4>
+                                    <h4><a href="#">Rejuvenecimiento facial</a></h4>
                                     <p>
                                         Recupera la juventud y la luminosidad de tu piel en Beauty Style.
                                     </p>
@@ -264,7 +268,7 @@
 
 
     <!-- gallery-area -->
-    <section id="work" class="pt-120 pb-110"
+    <section id="galeria" class="pt-120 pb-110"
         style=" background: url(/img/bg/gallery-bg.png); background-size: cover; background-position: center center;background-repeat: no-repeat; ">
         <div class="container">
             <div class="row">
@@ -281,58 +285,58 @@
                     <div class="masonry-gallery-huge portfolio">
                         <div class="grid col4">
                             <div class="grid-item hover-zoomin banking">
-                                <a class="popup-image" href="/img/gallery/protfolio-img01.png">
+                                <a class="popup-image" href="/img/gallery/01.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img01.png" alt="img" class="img" />
+                                        <img src="/img/gallery/01.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/protfolio-img02.png">
+                                <a class="popup-image" href="/img/gallery/02.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img02.png" alt="img" class="img" />
+                                        <img src="/img/gallery/02.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/protfolio-img03.png">
+                                <a class="popup-image" href="/img/gallery/03.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img03.png" alt="img" class="img" />
+                                        <img src="/img/gallery/03.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin insurance">
-                                <a class="popup-image" href="/img/gallery/protfolio-img04.png">
+                                <a class="popup-image" href="/img/gallery/04.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img04.png" alt="img" class="img" />
+                                        <img src="/img/gallery/04.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin banking insurance">
-                                <a class="popup-image" href="/img/gallery/protfolio-img05.png">
+                                <a class="popup-image" href="/img/gallery/05.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img05.png" alt="img" class="img" />
+                                        <img src="/img/gallery/05.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/protfolio-img06.png">
+                                <a class="popup-image" href="/img/gallery/06.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img06.png" alt="img" class="img" />
+                                        <img src="/img/gallery/06.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/protfolio-img07.png">
+                                <a class="popup-image" href="/img/gallery/07.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img07.png" alt="img" class="img" />
+                                        <img src="/img/gallery/07.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/protfolio-img08.png">
+                                <a class="popup-image" href="/img/gallery/08.jpg">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/protfolio-img08.png" alt="img" class="img" />
+                                        <img src="/img/gallery/08.jpg" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
@@ -459,7 +463,7 @@
                                 Cras sit amet placerat nisi.
                             </p> -->
                         </div>
-                        <form action="https://htmldemo.zcubethemes.com/fallspa/mail.php" method="post"
+                        <form action="" method=""
                             class="contact-form mt-30">
                             <div class="row">
                                 <div class="col-lg-6">
@@ -476,28 +480,36 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-subject mb-20">
-                                        <input type="text" id="email" name="email" placeholder="Teléfono" required />
+                                        <input type="text" id="tel" name="tel" placeholder="Teléfono" required />
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-subject mb-20">
-                                        <input type="date" name="datetime" id="datetime" placeholder="fecha"/>
+                                        <input type="text" id="firstn" name="firstn" placeholder="Servicio a reservar"
+                                            required />
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-subject mb-20">
-                                        <input type="time" name="datetime" id="datetime" placeholder="Hora"/>
+                                        <input type="date" name="datetime" id="datetime" placeholder="fecha" />
                                     </div>
                                 </div>
-                              
+                                <div class="col-lg-6">
+                                    <div class="contact-field p-relative c-subject mb-20">
+                                        <input type="time" name="datetime" id="datetime" placeholder="Hora" /> <i
+                                            class="fa fa-clock"></i>
+                                    </div>
+                                </div>
+
+
                                 <div class="col-lg-12">
                                     <div class="contact-field p-relative c-message mb-30">
                                         <textarea name="message" id="message" cols="30" rows="10"
-                                            placeholder="Write comments"></textarea>
+                                            placeholder="Mensaje..."></textarea>
                                     </div>
                                     <div class="slider-btn">
                                         <button class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">
-                                            <span>Submit Now</span>
+                                            <span>Enviar</span>
                                         </button>
                                     </div>
                                 </div>
@@ -510,22 +522,30 @@
                         <div class="open-img">
                             <img src="/img/bg/open-box-img.png" alt="icon01" />
                         </div>
-                        <h3>Opening Hours</h3>
+                        <h3>Horarios:</h3>
                         <div class="text">
-                            <div class="left-text">Monday to Friday:</div>
+                            <div class="left-text">Lunes a viernes:</div>
                             <div class="right-text">09:00 am – 10:00 pm</div>
                         </div>
                         <div class="text">
-                            <div class="left-text">Saturday:</div>
-                            <div class="right-text">09:00 am – 08:00 pm</div>
+                            <div class="left-text">Sábados:</div>
+                            <div class="right-text">09:00 am – 02:00 pm</div>
                         </div>
                         <div class="text">
-                            <div class="left-text">Sunday:</div>
-                            <div class="right-text">09:00 am – 05:00 pm</div>
+                            <div class="left-text">Domingos:</div>
+                            <div class="right-text">Cerrados</div>
                         </div>
-                        <div class="discount">
+                        <!-- <div class="discount">
                             Check out seasonal discounts for best offers.
-                        </div>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="col-md-12 mt-5">
+                    <div class="container">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1916.341001877305!2d-109.70865047684852!3d23.090181280247304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1695683656571!5m2!1ses-419!2smx"
+                            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>

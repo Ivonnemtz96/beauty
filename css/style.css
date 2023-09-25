@@ -10928,3 +10928,12 @@ color: #fff;
 .footer-top.wpding {
     background: #010c26;
 }
+
+/* ********** CUSTOM  ****************** */
+
+.btn_slider{
+    background-color: #ff4f9d;
+}
+.btn_slider:hover{
+    background-color: #884cd2;
+}

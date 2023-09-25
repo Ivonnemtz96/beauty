@@ -22,9 +22,9 @@
                                         </ul>
                                     </li> -->
                                     <li><a href="/">Inicio</a></li>
-                                    <li><a href="/">Nosotros</a></li>
-                                    <li><a href="/">Servicios</a></li>
-                                    <li><a href="/">Galería</a></li>
+                                    <li><a href="/#nosotros">Nosotros</a></li>
+                                    <li><a href="/#servicios">Servicios</a></li>
+                                    <li><a href="/#galeria">Galería</a></li>
                                     <li><a href="/"></a></li>
                                 </ul>
                             </nav>
@@ -35,7 +35,7 @@
                             <ul>
                                 <li>
                                     <div class="second-header-btn">
-                                        <a href="/" class="btn">Contactar</a>
+                                        <a href="/#booking" class="btn">Contactar</a>
                                     </div>
                                 </li>
                             </ul>
