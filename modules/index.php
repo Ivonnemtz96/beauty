@@ -9,7 +9,9 @@
             ">
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
-                        <div class="col-lg-6 col-md-7">
+                        
+                        <div class="col-lg-2 col-md-1 p-relative"></div>
+                        <div class="col-lg-10 col-md-11">
                             <div class="slider-content s-slider-content mt-20">
                                 <h5 style="color: #fff; text-shadow: #000 1px 1px 3px;" data-animation="fadeInUp"
                                     data-delay=".4s">
@@ -32,7 +34,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-5 p-relative"></div>
                     </div>
                 </div>
             </div>
@@ -42,7 +43,8 @@
             ">
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
-                        <div class="col-lg-6 col-md-7">
+                    <div class="col-lg-2 col-md-1 p-relative"></div>    
+                    <div class="col-lg-10 col-md-11">
                             <div class="slider-content s-slider-content mt-20">
                                 <h5 style="color: #fff; text-shadow: #000 1px 1px 3px;" data-animation="fadeInUp"
                                     data-delay=".4s">
@@ -65,7 +67,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-5 p-relative"></div>
+                        
                     </div>
                 </div>
             </div>

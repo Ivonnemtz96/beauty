@@ -19,5 +19,5 @@
     <link rel="stylesheet" href="/css/meanmenu.css" />
     <link rel="stylesheet" href="/css/default.css" />
     <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/responsive.css" />
+    <link rel="stylesheet" href="/css/responsive2.css" />
 </head>
