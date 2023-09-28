@@ -29,7 +29,7 @@
                                     </div>
                                     <div class="text">
                                         <h3>Llámanos:</h3>
-                                        <span>+52 123 456 7890</span>
+                                        <span>+52 624 225 7646</span>
                                     </div>
                                 </div>
                             </li>

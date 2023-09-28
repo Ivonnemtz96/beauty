@@ -25,9 +25,9 @@
                                 </p>
 
                                 <div class="slider-btn mt-30">
-                                    <a href="/contacto" class="btn ss-btn mr-15" data-animation="fadeInUp"
+                                    <a href="/#booking" class="btn ss-btn mr-15" data-animation="fadeInUp"
                                         data-delay=".8s">Agendar cita</a>
-                                    <a href="/contacto" class="btn ss-btn mr-15 btn_slider" data-animation="fadeInUp"
+                                    <a href="/#galeria" class="btn ss-btn mr-15 btn_slider" data-animation="fadeInUp"
                                         data-delay=".8s">Ver galería</a>
                                 </div>
                             </div>
@@ -58,9 +58,9 @@
                                 </p>
 
                                 <div class="slider-btn mt-30">
-                                    <a href="/contacto" class="btn ss-btn mr-15" data-animation="fadeInUp"
+                                    <a href="/#booking" class="btn ss-btn mr-15" data-animation="fadeInUp"
                                         data-delay=".8s">Agendar cita</a>
-                                    <a href="/contacto" class="btn ss-btn mr-15 btn_slider" data-animation="fadeInUp"
+                                    <a href="/#galeria" class="btn ss-btn mr-15 btn_slider" data-animation="fadeInUp"
                                         data-delay=".8s">Ver galería</a>
                                 </div>
                             </div>
@@ -183,7 +183,7 @@
                                     <img src="/img/icon/01.png" alt="icon01" />
                                 </div>
                                 <div class="text">
-                                    <h4><a href="#">Limpieza facial profunda</a></h4>
+                                    <h4 style="color:#ff4f9d;">Limpieza facial profunda</h4>
                                     <p>
                                         Revela la pureza de tu piel con nuestra limpieza facial profunda.
                                     </p>
@@ -194,7 +194,7 @@
                                     <img src="/img/icon/03.png" alt="icon01" />
                                 </div>
                                 <div class="text">
-                                    <h4><a href="#">Botox</a></h4>
+                                    <h4 style="color:#ff4f9d;">Botox</h4>
                                     <p>
                                         Luce radiante y natural con nuestros tratamientos de Botox.
                                     </p>
@@ -205,7 +205,7 @@
                                     <img src="/img/icon/06.png?=1" alt="icon01" />
                                 </div>
                                 <div class="text">
-                                    <h4><a href="#">Suero terapia</a></h4>
+                                    <h4 style="color:#ff4f9d;">Suero terapia</h4>
                                     <p>
                                         Lleva tu piel al siguiente nivel con nuestra suero terapia de calidad premium.
                                     </p>
@@ -228,7 +228,7 @@
                                     <img src="/img/icon/05.png" alt="icon01" />
                                 </div>
                                 <div class="text pt-10">
-                                    <h4><a href="#">Dermapen</a></h4>
+                                    <h4 style="color:#ff4f9d;">Dermapen</h4>
                                     <p>
                                         Transforma cicatrices y arrugas con la magia de Dermapen.
                                     </p>
@@ -239,7 +239,7 @@
                                     <img src="/img/icon/04.png" alt="icon01" />
                                 </div>
                                 <div class="text pt-10">
-                                    <h4><a href="#">Rellenos de ácido hialurónico</a></h4>
+                                    <h4 style="color:#ff4f9d;">Rellenos de ácido hialurónico</h4>
                                     <p>
                                         Luce radiante y rejuvenecida en minutos con nuestros rellenos de ácido
                                         hialurónico.
@@ -251,7 +251,7 @@
                                     <img src="/img/icon/02.png" alt="icon01" />
                                 </div>
                                 <div class="text pt-10">
-                                    <h4><a href="#">Rejuvenecimiento facial</a></h4>
+                                    <h4 style="color:#ff4f9d;">Rejuvenecimiento facial</h4>
                                     <p>
                                         Recupera la juventud y la luminosidad de tu piel en Beauty Style.
                                     </p>
@@ -367,7 +367,7 @@
                     <div class="testimonial-active">
                         <div class="single-testimonial">
                             <div class="testi-author">
-                                <img src="/img/testimonial/testi_avatar.png" alt="img" />
+                                <img src="/img/logo/logo2.png" style="width: 5rem;" alt="img" />
                                 <div class="ta-info">
                                     <h6>Cliente 1</h6>
                                     <!-- <span>Client</span> -->
@@ -385,7 +385,7 @@
                         </div>
                         <div class="single-testimonial">
                             <div class="testi-author">
-                                <img src="/img/testimonial/testi_avatar_02.png" alt="img" />
+                                <img src="/img/logo/logo2.png" style="width: 5rem;" alt="img" />
                                 <div class="ta-info">
                                     <h6>Cliente 2</h6>
                                     <!-- <span>Client</span> -->
@@ -403,7 +403,7 @@
                         </div>
                         <div class="single-testimonial">
                             <div class="testi-author">
-                                <img src="/img/testimonial/testi_avatar.png" alt="img" />
+                                <img src="/img/logo/logo2.png" style="width: 5rem;" alt="img" />
                                 <div class="ta-info">
                                     <h6>Cliente 3</h6>
                                     <!-- <span>Client</span> -->
@@ -421,7 +421,7 @@
                         </div>
                         <div class="single-testimonial">
                             <div class="testi-author">
-                                <img src="/img/testimonial/testi_avatar_02.png" alt="img" />
+                                <img src="/img/logo/logo2.png" style="width: 5rem;" alt="img" />
                                 <div class="ta-info">
                                     <h6>Cliente 4</h6>
                                     <!-- <span>Client</span> -->
@@ -463,8 +463,7 @@
                                 Cras sit amet placerat nisi.
                             </p> -->
                         </div>
-                        <form action="" method=""
-                            class="contact-form mt-30">
+                        <form action="" method="" class="contact-form mt-30">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="contact-field p-relative c-name mb-20">
@@ -535,6 +534,10 @@
                             <div class="left-text">Domingos:</div>
                             <div class="right-text">Cerrados</div>
                         </div>
+                        <h3>Dirección:</h3>
+                        <div class="text">
+                            <div class="left-text">Av. Las Colinas 1614-LOCAL #11, 23444 San José del Cabo</div>
+                        </div>
                         <!-- <div class="discount">
                             Check out seasonal discounts for best offers.
                         </div> -->
@@ -543,7 +546,7 @@
                 <div class="col-md-12 mt-5">
                     <div class="container">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1916.341001877305!2d-109.70865047684852!3d23.090181280247304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1695683656571!5m2!1ses-419!2smx"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1139.6053482997738!2d-109.715622518516!3d23.07340462192611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5be17631a527%3A0x5f3feeb904dca419!2sPlaza%20Cantabria!5e0!3m2!1ses-419!2smx!4v1695940199886!5m2!1ses-419!2smx"
                             width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>

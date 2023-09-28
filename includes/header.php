@@ -1,7 +1,7 @@
 <!-- header -->
 <header class="header-area header-three">
     <div id="header-sticky" class="menu-area">
-        <div class="container-fluid">
+        <div class="container-fluid" style="backdrop-filter: blur(20px);">
             <div class="second-menu">
                 <div class="row align-items-center">
                     <div class="col-xl-2 col-lg-2">
@@ -21,11 +21,11 @@
                                             <li><a href="index-3.html">Home Page 03</a></li>
                                         </ul>
                                     </li> -->
-                                    <li><a href="/">Inicio</a></li>
-                                    <li><a href="/#nosotros">Nosotros</a></li>
-                                    <li><a href="/#servicios">Servicios</a></li>
-                                    <li><a href="/#galeria">Galería</a></li>
-                                    <li><a href="/"></a></li>
+                                    <li><a style="text-shadow: #fff 1px 1px 5px;" href="/">Inicio</a></li>
+                                    <li><a style="text-shadow: #fff 1px 1px 5px;" href="/#nosotros">Nosotros</a></li>
+                                    <li><a style="text-shadow: #fff 1px 1px 5px;" href="/#servicios">Servicios</a></li>
+                                    <li><a style="text-shadow: #fff 1px 1px 5px;" href="/#galeria">Galería</a></li>
+                                    <li><a style="text-shadow: #fff 1px 1px 5px;" href="/"></a></li>
                                 </ul>
                             </nav>
                         </div>
