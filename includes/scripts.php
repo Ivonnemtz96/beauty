@@ -19,5 +19,3 @@
  <script src="/js/element-in-view.js"></script>
  <script src="/js/main.js"></script>
 
- <!-- icons de redes sociales -->
-<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
