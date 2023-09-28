@@ -85,7 +85,7 @@
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="s-about-img p-relative wow fadeInLeft animated" data-animation="fadeInLeft"
                         data-delay=".4s">
-                        <img src="/img/features/about_img.png" alt="img" />
+                        <img src="/img/features/about_img.jpg?=1" alt="img" />
                         <!-- <div class="about-text second-about">
                             <span>15</span>
                             <p>Years of Experience</p>
@@ -216,7 +216,7 @@
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 text-center d-none d-lg-block">
                     <div class="sd-img">
-                        <img src="/img/features/services-img-details2.png" alt="img" />
+                        <img src="/img/features/04.png?=1" alt="img" />
                     </div>
                 </div>
 
@@ -285,58 +285,58 @@
                     <div class="masonry-gallery-huge portfolio">
                         <div class="grid col4">
                             <div class="grid-item hover-zoomin banking">
-                                <a class="popup-image" href="/img/gallery/01.jpg">
+                                <a class="popup-image" href="/img/gallery/05-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/01.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/05.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/02.jpg">
+                                <a class="popup-image" href="/img/gallery/06-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/02.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/06.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/03.jpg">
+                                <a class="popup-image" href="/img/gallery/07-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/03.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/07.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin insurance">
-                                <a class="popup-image" href="/img/gallery/04.jpg">
+                                <a class="popup-image" href="/img/gallery/08-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/04.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/08.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin banking insurance">
-                                <a class="popup-image" href="/img/gallery/05.jpg">
+                                <a class="popup-image" href="/img/gallery/09-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/05.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/09.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/06.jpg">
+                                <a class="popup-image" href="/img/gallery/10-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/06.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/10.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/07.jpg">
+                                <a class="popup-image" href="/img/gallery/11-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/07.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/11.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
                             <div class="grid-item hover-zoomin financial">
-                                <a class="popup-image" href="/img/gallery/08.jpg">
+                                <a class="popup-image" href="/img/gallery/12-g.jpg?=1">
                                     <figure class="gallery-image">
-                                        <img src="/img/gallery/08.jpg" alt="img" class="img" />
+                                        <img src="/img/gallery/12.jpg?=1" alt="img" class="img" />
                                     </figure>
                                 </a>
                             </div>
